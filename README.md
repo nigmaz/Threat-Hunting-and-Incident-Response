@@ -31,6 +31,7 @@ certutil -hashfile [path] sha256
   - splunk
   - soar
   - siem
+  - Snort: (IDS) https://www.youtube.com/watch?v=T7aaApKzN6c
   - ...
 - Security Operations Center (SOC) program and technologies:
   * SIEM:

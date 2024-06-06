@@ -1,4 +1,5 @@
 # Tools
+
 > Tools and Environment.
 
 ## [0]. Volatility
@@ -8,6 +9,7 @@
 
 - https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
 - Writeup demo tools
+
   - https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Finfosecwriteups.com%2Fforensics-memory-analysis-with-volatility-6f2b9e859765
 
   - https://infosecwriteups.com/forensics-memory-analysis-with-volatility-6f2b9e859765
@@ -18,3 +20,8 @@
 
 - https://github.com/MHaggis/sysmon-dfir
 
+## [2]. Monitor System
+
+- https://www.youtube.com/watch?v=MoDK4mR6hNs
+
+- https://www.youtube.com/watch?v=llx0r1EnlYo&t=13s

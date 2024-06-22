@@ -29,9 +29,10 @@ certutil -hashfile [path] sha256
 
 - `Lab`: https://cyberdefenders.org/search/labs/?q=pcap
 - Ecosystem SOC team:
-  - splunk
-  - soar
-  - siem
+  - Splunk
+  - SOAR
+  - SIEM
+  - ELK
   - Snort: (IDS) https://www.youtube.com/watch?v=T7aaApKzN6c
   - ...
 - Security Operations Center (SOC) program and technologies:
@@ -40,7 +41,6 @@ certutil -hashfile [path] sha256
     - CyM viettel
     - IBM Qradar SIEM solution
     - CyRadar
-    - Splunk, ELK and SOA
 
 - Tools:
   - Velociraptor imo DFIR

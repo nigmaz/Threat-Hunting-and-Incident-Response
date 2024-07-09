@@ -15,35 +15,28 @@
 
 - https://www.youtube.com/watch?v=C-0JD1Fwk7U
 
-```ps1
-certutil -hashfile [path] sha256
-```
-
 - Hunt linux: https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/
-- Tools:
-  - Linux: https://github.com/kunai-project/kunai
-  - Windows: https://github.com/Yamato-Security/hayabusa
-  - https://docs.velociraptor.app/
 
 ## [1]. Incident Response
 
 - `Lab`: https://cyberdefenders.org/search/labs/?q=pcap
 - Ecosystem SOC team:
+
   - Splunk
   - SOAR
   - SIEM
   - ELK
   - Snort: (IDS) https://www.youtube.com/watch?v=T7aaApKzN6c
+  - https://www.youtube.com/watch?v=MoDK4mR6hNs
+  - https://www.youtube.com/watch?v=llx0r1EnlYo&t=13s
   - ...
+
 - Security Operations Center (SOC) program and technologies:
 
   - SIEM:
     - CyM viettel
     - IBM Qradar SIEM solution
     - CyRadar
-
-- Tools:
-  - Velociraptor imo DFIR
 
 ## [2]. Certifications
 
